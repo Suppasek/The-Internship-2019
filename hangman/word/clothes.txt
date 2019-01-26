@@ -1,0 +1,1 @@
+{'T-shirt':'casual', 'Jeans':'levi', 'Skirt':'no legs', 'Sock':'for your feet', 'Tank Tops':'justin bieber'}

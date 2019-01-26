@@ -1,0 +1,1 @@
+{ 'Elephant': 'big guy',  'Zebra': 'crosswalk', 'Sea Turtle': 'hard shell', 'Octopus':'tentacle', 'bird':'fly'}
