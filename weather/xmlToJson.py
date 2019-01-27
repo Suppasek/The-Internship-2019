@@ -13,7 +13,7 @@ try:
             file.write(json.dumps(dict).replace('@', ''))
             print("success")
 except:
-    print("No such file or directory")
+    print("can't find xml file")
 
 # prevent from closing immediately
 input("\nPress enter to close program")

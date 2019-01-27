@@ -31,7 +31,17 @@ def is_wrong_category(selected_category, category_size):
 
 
 def prepare_data():
-    category_list = get_files_name(PATH)
+    # this loop will not end until PATH directory was found
+    while True:
+        # try/except prevent exception
+        try:
+            category_list = get_files_name(PATH)
+        except:
+            print("can't find directory '%s'" % PATH)
+            input("\nPress enter to continue")
+        else:
+            break
+
     print("Please select category \n")
     print_list_item_with_index(category_list)
 
