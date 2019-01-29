@@ -10,5 +10,5 @@
 
 
 # References
-	https://stackoverflow.com/questions/22520932/python-remove-all-non-alphabet-chars-from-string
-	https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
+https://stackoverflow.com/questions/22520932/python-remove-all-non-alphabet-chars-from-string
+https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
